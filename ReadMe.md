@@ -79,6 +79,11 @@ The RAG pipeline works in the following steps:
     ```
 
     This will start the web application, and you can interact with the RAG chatbot in your browser.
+## 📜 Demo
+   <img width="1902" height="1019" alt="image" src="https://github.com/user-attachments/assets/8172a725-f4f6-45d5-8175-9bd93a06e205" />
+
+   <img width="1486" height="880" alt="image" src="https://github.com/user-attachments/assets/09db29bc-0e3d-4c5d-97bd-a0dd35c1eccf" />
+   
 
 ## 📜 License
 
