@@ -1,0 +1,11 @@
+sentence-transformers
+faiss-cpu
+PyMuPDF
+transformers
+torch
+accelerate
+huggingface_hub
+einops
+streamlit
+streamlit-chat
+auto-gptq  
